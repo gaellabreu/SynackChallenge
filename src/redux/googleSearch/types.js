@@ -1,0 +1,2 @@
+export const GOOGLE_SEARCH = 'GOOGLE_SEARCH'
+export const GOOGLE_MORE = 'GOOGLE_MORE'
